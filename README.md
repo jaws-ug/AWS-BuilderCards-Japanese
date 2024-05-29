@@ -18,7 +18,7 @@ AWS BuilderCards は英語のみだったため、多くの日本の方が AWS B
 - AWS BuilderCardsをより遊びやすくするカードマット
 
 # AWS　BuilderCards日本語化プロジェクトリポジトリで公開しているリソースのライセンス
-AWS BuilderCards(https://aws.amazon.com/jp/gametech/buildercards/)に準じます。
+AWS BuilderCards(https://aws.amazon.com/jp/gametech/buildercards)に準じます。
 本プロジェクト公開しているプレイマットをデザイン変更して利用したい場合などは Issue もしくは X より やまぐち(https://twitter.com/kinunori) までご連絡ください。
 
 # AWS　BuilderCards日本語化プロジェクトメンバー
