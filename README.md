@@ -1,5 +1,5 @@
 # AWS　BuilderCards日本語化プロジェクトとは
-AWS BuilderCards(https://aws.amazon.com/jp/gametech/buildercards/)の日本語化、AWS BuiderCardsの遊び方を紹介する日本語プレイガイド、AWS BuilderCardsをより遊びやすくするカードマットなどのメンテナンスを行い、より多くの方に AWS BuiderCards を通じてAWSを楽しみながら学習していただくために活動しているプロジェクトです。
+AWS BuilderCards(https://aws.amazon.com/jp/gametech/buildercards/) の日本語化、AWS BuiderCardsの遊び方を紹介する日本語プレイガイド、AWS BuilderCardsをより遊びやすくするカードマットなどのメンテナンスを行い、より多くの方に AWS BuiderCards を通じてAWSを楽しみながら学習していただくために活動しているプロジェクトです。
 有志のプロジェクトメンバーにて JAWS-UG（AWS User Group – Japan）のワーキンググループとして活動しています。
 
 # AWS BuilderCardsとは
@@ -18,7 +18,7 @@ AWS BuilderCards は英語のみだったため、多くの日本の方が AWS B
 - AWS BuilderCardsをより遊びやすくするカードマット
 
 # AWS　BuilderCards日本語化プロジェクトリポジトリで公開しているリソースのライセンス
-AWS BuilderCards(https://aws.amazon.com/jp/gametech/buildercards) に準じます。
+AWS BuilderCards(https://aws.amazon.com/jp/gametech/buildercards/) に準じます。
 本プロジェクト公開しているプレイマットをデザイン変更して利用したい場合などは Issue もしくは X より やまぐち(https://twitter.com/kinunori) までご連絡ください。
 
 # AWS　BuilderCards日本語化プロジェクトメンバー
