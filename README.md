@@ -24,8 +24,8 @@ AWS BuilderCards(https://aws.amazon.com/jp/gametech/buildercards/) に準じま�
 # AWS　BuilderCards日本語化プロジェクトメンバー
 - 山口 正徳 (JAWS-UG千葉支部所属)
 - 榎本 航介 (JAWS-UG千葉支部所属)
-- 尾谷 紘平 (JAWS-UG初心者支部支部所属)
-- 山口 隆 (JAWS-UG千葉支部所属)
+- 尾谷 紘平 (JAWS-UG初心者支部所属)
+- 山口 隆史 (JAWS-UG千葉支部所属)
 - 和田 健一郎 (JAWS-UG千葉支部所属)
 
 
