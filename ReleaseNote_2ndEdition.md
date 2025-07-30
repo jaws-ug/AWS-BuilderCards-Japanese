@@ -31,3 +31,11 @@ AWS BuilderCardsの新バージョンとなる、2nd Editionがリリースさ�
 | 1枚のカードを引く | アイコンに変更 |
 | 効果を使用した後、このカードはリタイアする | アイコンに変更 |
 | カードを購入する | Cloud-Adoption |
+
+## エラッタ
+re:Invent 2024にて配布された英語版BuilderCards(通常版)同梱のクイックリファレンスカードに誤植が存在します。（改訂カードも当日配布）
+
+| 箇所 | 誤 | 正 |
+| :---- | :---- | :---- |
+| プレイヤーターン1 | (手札の) **On-premises Card の数が Builder Card よりも多い**場合は、On-premises Card を1枚リタイアさせることができます。 | (手札の) **Builder Card の数が On-premises Card よりも多い**場合は、On-premises Card を1枚リタイアさせることができます。 |
+
